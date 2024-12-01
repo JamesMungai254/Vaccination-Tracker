@@ -14,8 +14,8 @@ This application is designed to keep a record of kids who are vaccinated. It ens
 
 1. **Clone the Repository**
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/JamesMungai254/Vaccination-Tracker.git
+    cd Vaccination-Tracker
     ```
 
 2. **Install Flutter**
